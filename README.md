@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm Tanmay Srivastava<br>⭐ I'm a Full Stack Developer<br>🌱 I’m currently learning System Design<br>💬 Ask me about developing end-to-end features<br>👯 I’m looking to collaborate on Open Source Project<br>
+👋 I'm Tanmay Srivastava<br>⭐ I'm a Full Stack Developer<br>🌱 I’m currently learning System Design<br>💬 Ask me about developing end-to-end features<br>👯 I’m looking to collaborate on Open Source Project<br>📄 Know about my experiences https://bit.ly/45ZUqFz <br>
 
 
 ## 🌐 Socials:
